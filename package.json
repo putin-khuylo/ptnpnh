@@ -1,0 +1,10 @@
+{
+	"name": "ptnpnh",
+	"description": "ПТН ПНХ - a denazification library. Blocks nazi (i.e. Russian) sites from using your code (replaces content with the infamous \"PTN PNH\" message). ",
+	"version": "0.0.1",
+	"license": "WTFPL",
+	"main": "ptnpnh.js",
+	"scripts": {
+		"install": "node updateEmbargoTime.js"
+	}
+}
